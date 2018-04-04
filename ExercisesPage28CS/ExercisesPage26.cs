@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ExercisesPage28CS
 {
-    class ExercisesPage28
+    class ExercisesPage26
     {
         static void Main(string[] args)
         {
