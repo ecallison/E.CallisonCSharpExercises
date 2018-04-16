@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcersisesPage32CS", "Excer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage34CS", "ExercisesPage34CS\ExercisesPage34CS.csproj", "{FB46C4D9-D5CF-423A-9CE3-27D49F15998B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage36CSMethods", "ExercisesPage36CSMethods\ExercisesPage36CSMethods.csproj", "{D2387CBC-06BE-4570-8156-06049380CE54}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage35CSMethods", "ExercisesPage36CSMethods\ExercisesPage35CSMethods.csproj", "{D2387CBC-06BE-4570-8156-06049380CE54}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
