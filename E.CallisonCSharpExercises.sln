@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage34CS", "Exerci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage35CSMethods", "ExercisesPage36CSMethods\ExercisesPage35CSMethods.csproj", "{D2387CBC-06BE-4570-8156-06049380CE54}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage37CSMoreOnMethods", "ExercisesPage37CSMoreOnMethods\ExercisesPage37CSMoreOnMethods.csproj", "{1076CDC1-D94B-437C-B012-D3E7A1F817E0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{D2387CBC-06BE-4570-8156-06049380CE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2387CBC-06BE-4570-8156-06049380CE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2387CBC-06BE-4570-8156-06049380CE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1076CDC1-D94B-437C-B012-D3E7A1F817E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1076CDC1-D94B-437C-B012-D3E7A1F817E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1076CDC1-D94B-437C-B012-D3E7A1F817E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1076CDC1-D94B-437C-B012-D3E7A1F817E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
