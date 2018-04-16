@@ -30,8 +30,6 @@ namespace ExercisesPage38MoreOnMethods
                 Console.WriteLine("\nYou earned ${0}" + " this week!", product);
 
             }
-
-            
             Console.ReadLine();
         }
     }

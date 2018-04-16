@@ -12,13 +12,5 @@ namespace ExercisesPage38MoreOnMethods
         {
             return weeklyHours * employeeWage;
         }
-
-        //public int CalculateWeeklyEarnings(int employeeWage, int timesMultiplied = 40)
-        //{
-        //    for(int i = 0; i < timesMultiplied; i++)
-        //    {
-        //        return empl
-        //    }
-        //}
     }
 }
