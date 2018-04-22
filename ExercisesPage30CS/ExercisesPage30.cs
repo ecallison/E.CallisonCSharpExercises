@@ -237,155 +237,29 @@ namespace ExercisesPage30CS
             //Console.ReadLine();
 
             // Exercise 11 on Page 30 - CORRECTED (I hope!)
-            Console.WriteLine("Hello! Please type either 0, 1, 2, 3, 4, or 5 to receive an affirmation (and to see if this affirmation string already exists in this list):");
-            int userAffirmation = Convert.ToInt32(Console.ReadLine());
-            List<string> positiveAffirmations = new List<string>() { "I am focused.", "I am calm.", "I am intelligent.", "I am focused.", "I am calm.", "I am intelligent." };
-       
-            foreach (string Iam in positiveAffirmations)
-            {
-                for (int i = 0; i < positiveAffirmations.Count; i++)
-                {
-                    if (positiveAffirmations[i].Contains("I am focused."))
-                    {
-                        List<int> Indexes1 = new List<int>();
-                        Indexes1.Add("This string is appearing ");
-                        if (Indexes1[i])
-                        {
-                            Console.WriteLine(positiveAffirmations[i]);
-                            Console.WriteLine("\n" + positiveAffirmations[i] + " is appearing for the first time in this list.");
-                        }
-                        else
-                        {
-                            Console.WriteLine(positiveAffirmations[i]);
-                            Console.WriteLine("\n" + positiveAffirmations[i] + " is appearing for the second time in this list.");
-                        }
-                    }
-                    else if (positiveAffirmations[i].Contains("I am calm."))
-                    {
-                        List<int> Indexes2 = new List<int>();
-                        Indexes2.Add(1);
-                        if (i > 1)
-                        {
-                            Console.WriteLine(positiveAffirmations[i]);
-                            Console.WriteLine("\n" + positiveAffirmations[i] + " is appearing for the first time in this list.");
-                        }
-                        else
-                        {
-                            Console.WriteLine(positiveAffirmations[i]);
-                            Console.WriteLine("\n" + positiveAffirmations[i] + " is appearing for the second time in this list.");
-                        }
-                    }
-
-                }
-            }
-
-          
-            Console.ReadLine();
-
-            //foreach (int i = 0; i < positiveAffirmations.; i++)
+            //Console.WriteLine("Hello! Please type either 0, 1, 2, 3, 4, or 5 to receive an affirmation (and to see if this affirmation string already exists in this list):");
+            //int userAffirmation = Convert.ToInt32(Console.ReadLine());
+            //List<string> positiveAffirmations = new List<string>() { "I am focused.", "I am calm.", "I am intelligent.", "I am focused.", "I am calm.", "I am intelligent." };
+            
+            
+            
+            //var result = positiveAffirmations.First(x => x == "foo");
+            //string result = positiveAffirmations.First();
+            
+            //foreach (string Iam in positiveAffirmations)
             //{
                 
-            //    Console.WriteLine("\"" + positiveAffirmations[i] + "\" is appearing for the first time in this list.");
             //}
 
-
-            //foreach (string Iam in positiveAffirmations)
-            //{
-            //    int affirmationIndex = positiveAffirmations.IndexOf(Iam);
-            //    for (int i = 0; i < positiveAffirmations.Count; i++)
-            //    {
-            //        if (positiveAffirmations.affirmationIndex.Contains("I am focused"))
-            //        {
-
-            //        }
-            //    }
-                    //string first = positiveAffirmations.FirstOrDefault("I am focused");
-                    //Console.WriteLine(fir
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            //foreach (string Iam in positiveAffirmations)
-            //{
-            //    List<string> affirmationCount = new List<string>
-            //    {
-            //        "\n\"" + positiveAffirmations[0] + "\" is appearing in this list for the first time.",
-            //        "\n\"" + positiveAffirmations[1] + "\" is appearing in this list for the first time.",
-            //        "\n\"" + positiveAffirmations[2] + "\" is appearing in this list for the first time.",
-            //        "\n\"" + positiveAffirmations[3] + "\" has already appeared once in this list.",
-            //        "\n\"" + positiveAffirmations[4] + "\" has already appeared once in this list.",
-            //        "\n\"" + positiveAffirmations[5] + "\" has already appeared once in this list.",
-            //    };
-
-
-            //    if (userAffirmation == 0)
-            //    {
-            //        Console.WriteLine(positiveAffirmations[0]);
-            //        Console.WriteLine(affirmationCount[0]);
-            //        break;
-            //    }
-            //    else if (userAffirmation == 1)
-            //    {
-            //        Console.WriteLine(positiveAffirmations[1]);
-            //        Console.WriteLine(affirmationCount[1]);
-            //        break;
-            //    }
-            //    else if (userAffirmation == 2)
-            //    {
-            //        Console.WriteLine(positiveAffirmations[2]);
-            //        Console.WriteLine(affirmationCount[2]);
-            //        break;
-            //    }
-            //    else if (userAffirmation == 3)
-            //    {
-            //        Console.WriteLine(positiveAffirmations[3]);
-            //        Console.WriteLine(affirmationCount[3]);
-            //        break;
-            //    }
-            //    else if (userAffirmation == 4)
-            //    {
-            //        Console.WriteLine(positiveAffirmations[4]);
-            //        Console.WriteLine(affirmationCount[4]);
-            //        break;
-            //    }
-            //    else if (userAffirmation == 5)
-            //    {
-            //        Console.WriteLine(positiveAffirmations[5]);
-            //        Console.WriteLine(affirmationCount[5]);
-            //        break;
-            //    }
-            //}
-            Console.ReadLine();
-
-
-
-
-            // A possible correction below
-            //var duplicateIndexes = data
-            //.Select((t, i) => new { Index = i, Text = t })
-            //.GroupBy(g => g.Text)
-            //.Where(g => g.Count() > 1)
-            //.SelectMany(g => g, (g, x) => x.Index);
-            // Console.ReadLine();
-
+            //list of integers
+            //foreach 
+            //int i = 0 
+            //if says I am focused
+            //add index of i to list of integers 
+            //foreach in List of integers 
+            //if i > 
+            //else if it says I am calm
+            //    same thing 
         }
     }
 }
