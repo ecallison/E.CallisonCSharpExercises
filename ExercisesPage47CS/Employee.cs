@@ -15,4 +15,3 @@ namespace ExercisesPage47CS
         }
     }
 }
-
