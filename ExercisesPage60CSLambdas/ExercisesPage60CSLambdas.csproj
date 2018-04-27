@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{54246C34-33B0-438D-912A-AF6321BCCCC9}</ProjectGuid>
+    <ProjectGuid>{67508A91-2B4F-46D7-AB6C-0AE69A58DE16}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ExercisesPage52CSOperatorOverloading</RootNamespace>
-    <AssemblyName>ExercisesPage52CSOperatorOverloading</AssemblyName>
+    <RootNamespace>ExercisesPage60CSLambdas</RootNamespace>
+    <AssemblyName>ExercisesPage60CSLambdas</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

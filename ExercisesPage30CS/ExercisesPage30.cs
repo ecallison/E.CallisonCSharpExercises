@@ -236,30 +236,26 @@ namespace ExercisesPage30CS
             //while (correct3 == true);
             //Console.ReadLine();
 
-            // Exercise 11 on Page 30 - CORRECTED (I hope!)
-            //Console.WriteLine("Hello! Please type either 0, 1, 2, 3, 4, or 5 to receive an affirmation (and to see if this affirmation string already exists in this list):");
-            //int userAffirmation = Convert.ToInt32(Console.ReadLine());
-            //List<string> positiveAffirmations = new List<string>() { "I am focused.", "I am calm.", "I am intelligent.", "I am focused.", "I am calm.", "I am intelligent." };
-            
-            
-            
-            //var result = positiveAffirmations.First(x => x == "foo");
-            //string result = positiveAffirmations.First();
-            
-            //foreach (string Iam in positiveAffirmations)
-            //{
-                
-            //}
+            // Exercise 11 on Page 30 - CORRECTED!!!!!! :)
+            List<string> positiveAffirmations = new List<string>() { "I am focused.", "I am calm.", "I am intelligent.", "I am focused.", "I am calm.", "I am intelligent." , "I am at peace."};
+            List<string> newList = new List<string>();
 
-            //list of integers
-            //foreach 
-            //int i = 0 
-            //if says I am focused
-            //add index of i to list of integers 
-            //foreach in List of integers 
-            //if i > 
-            //else if it says I am calm
-            //    same thing 
+            foreach (string Iam in positiveAffirmations)
+            {
+                Console.WriteLine(Iam);
+                if (newList.Contains(Iam))
+                {
+                    Console.WriteLine("This affirmation has already appeared in this list.");
+                }
+                else
+                {
+                    Console.WriteLine("This affirmation is appearing for the first time in this list.");
+                }
+                newList.Add(Iam);  
+            }
+            Console.ReadLine();
+
+
         }
     }
 }

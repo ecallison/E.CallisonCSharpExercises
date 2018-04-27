@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{54246C34-33B0-438D-912A-AF6321BCCCC9}</ProjectGuid>
+    <ProjectGuid>{6FAE1AB1-236B-49FB-8A32-F08485A36AE4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ExercisesPage52CSOperatorOverloading</RootNamespace>
-    <AssemblyName>ExercisesPage52CSOperatorOverloading</AssemblyName>
+    <RootNamespace>ExercisesPage58CSStructs</RootNamespace>
+    <AssemblyName>ExercisesPage58CSStructs</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Employee.cs" />
+    <Compile Include="Number.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

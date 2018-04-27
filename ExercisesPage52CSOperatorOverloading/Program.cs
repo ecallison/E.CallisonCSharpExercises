@@ -10,23 +10,18 @@ namespace ExercisesPage52CSOperatorOverloading
     {
         static void Main(string[] args)
         {
-            Employee1 employee1 = new Employee1();
-            Employee2 employee2 = new Employee2();
+            Employee employee1 = new Employee();
+            Employee employee2 = new Employee();
             employee1.Id = 123;
-            employee2.Id = 124;
-            int employeeId1 = employee1.Id;
-            int employeeId2 = employee2.Id;
+            employee2.Id = 123;
 
-            Console.WriteLine("Employee Id already exists in our system: {0}", employeeId1 == employeeId2);
-            
-
-            if (employeeId1 == employeeId2)
+            if (employee1 == employee2)
             {
-                Console.WriteLine("We already have a record of the Employee Id {0}. Goodbye!", employeeId1);
+                Console.WriteLine("Record of employee Id {0} already exists. Goodbye!", employee1.Id);
             }
             else
             {
-                Console.WriteLine("Welcome to Callison Tech!");
+                Console.WriteLine("Thank you for submitting your unique employee Id. Welcome to Callison Tech!");
             }
 
             Console.ReadLine();

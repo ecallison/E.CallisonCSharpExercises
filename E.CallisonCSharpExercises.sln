@@ -41,6 +41,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage54CSGenerics",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage56CSEnums", "ExercisesPage56CSEnums\ExercisesPage56CSEnums.csproj", "{A2752032-EC89-4BEC-B42E-DA0E8BDE6DB0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage58CSStructs", "ExercisesPage58CSStructs\ExercisesPage58CSStructs.csproj", "{6FAE1AB1-236B-49FB-8A32-F08485A36AE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage60CSLambdas", "ExercisesPage60CSLambdas\ExercisesPage60CSLambdas.csproj", "{67508A91-2B4F-46D7-AB6C-0AE69A58DE16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +127,14 @@ Global
 		{A2752032-EC89-4BEC-B42E-DA0E8BDE6DB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2752032-EC89-4BEC-B42E-DA0E8BDE6DB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2752032-EC89-4BEC-B42E-DA0E8BDE6DB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAE1AB1-236B-49FB-8A32-F08485A36AE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAE1AB1-236B-49FB-8A32-F08485A36AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAE1AB1-236B-49FB-8A32-F08485A36AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAE1AB1-236B-49FB-8A32-F08485A36AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67508A91-2B4F-46D7-AB6C-0AE69A58DE16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67508A91-2B4F-46D7-AB6C-0AE69A58DE16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67508A91-2B4F-46D7-AB6C-0AE69A58DE16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67508A91-2B4F-46D7-AB6C-0AE69A58DE16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -18,5 +18,6 @@ namespace ExercisesPage56CSEnums
             Saturday,
             Sunday
         }
+    public DaysOfTheWeek daysOfWeek { get; set; }
     }
 }
