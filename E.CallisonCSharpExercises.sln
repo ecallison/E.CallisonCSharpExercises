@@ -45,7 +45,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage58CSStructs", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage60CSLambdas", "ExercisesPage60CSLambdas\ExercisesPage60CSLambdas.csproj", "{67508A91-2B4F-46D7-AB6C-0AE69A58DE16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage64CSIO", "ExercisesPage64CSIO\ExercisesPage64CSIO.csproj", "{16F831EC-DFA7-40A1-BDA1-03D097A929D1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage64CSIOANDPage66CSDateTime", "ExercisesPage64CSIO\ExercisesPage64CSIOANDPage66CSDateTime.csproj", "{16F831EC-DFA7-40A1-BDA1-03D097A929D1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
