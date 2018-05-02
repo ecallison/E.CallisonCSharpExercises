@@ -254,8 +254,6 @@ namespace ExercisesPage30CS
                 newList.Add(Iam);  
             }
             Console.ReadLine();
-
-
         }
     }
 }
