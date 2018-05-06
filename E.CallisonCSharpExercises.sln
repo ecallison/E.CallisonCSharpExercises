@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage64CSIOANDPage6
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage71CSConstructorChainsAndConstantVariables", "ExercisesPage71CSConstructorChainsAndConstantVariables\ExercisesPage71CSConstructorChainsAndConstantVariables.csproj", "{B9918462-2095-4FF3-AFFD-9EC31654AC99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExercisesPage73CSExceptionHandling", "ExercisesPage73CSExceptionHandling\ExercisesPage73CSExceptionHandling.csproj", "{C6CF0CE1-590D-4ED9-A7ED-43165B060DFE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -147,6 +149,10 @@ Global
 		{B9918462-2095-4FF3-AFFD-9EC31654AC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9918462-2095-4FF3-AFFD-9EC31654AC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9918462-2095-4FF3-AFFD-9EC31654AC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6CF0CE1-590D-4ED9-A7ED-43165B060DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6CF0CE1-590D-4ED9-A7ED-43165B060DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6CF0CE1-590D-4ED9-A7ED-43165B060DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6CF0CE1-590D-4ED9-A7ED-43165B060DFE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
